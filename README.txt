@@ -2,6 +2,7 @@ A basic Python To-Do List App
 Stepwise Instructions
  
 Step 1:Start
+
 Step 2: Project Setup
 Before beginning to code, it is crucial to establish your project environment. Launch your preferred code editor(whether it's Visual Studio Code, PyCharm, a basic text editor, or Google Colab), and initiate a new Python file. Choose a suitable name for the file, like "to-do list.py".
 
